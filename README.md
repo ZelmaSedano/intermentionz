@@ -4,7 +4,7 @@ InterMention is a an application that utilizes Psychology's Repetition & Remindi
 
 In addition, InterMention has a Quote of the Day below the Affirmations Table to inspire the user with insightful and uplifting quotes.
 
-<h3><a href='https://intermentionz.herokuapp.com/' target='_blank'>View InterMention on Heroku</a><h3>
+<h3><a href='https://intermentionz.herokuapp.com/' target='_blank'>✨ See InterMention in Action</a><h3>
 
 <img src="./serene.png">
 
