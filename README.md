@@ -17,11 +17,12 @@ Sending users their favorite Mention on a schedule so that they are reminded of 
 Here is a designated test user you can log in with to try out InterMention:
 
 <!-- <img src="./stuart-smalley.jpg" > -->
-<img src="https://raw.githubusercontent.com/ZelmaSedano/intermentionz/main/stuart_2.jpeg" width="200px" style='border-radius: 20px;'>
+<img src="https://raw.githubusercontent.com/ZelmaSedano/intermentionz/main/stuart_2.jpeg" width="200px" >
 
 Stuart Smalley
 
-<p><b>Email: </b>stuartisvalid@gmail.com</p>
+<b>Email: </b>stuartisvalid@gmail.com
+
 <p><b>Password: </b>Celery123!!</p>
 <p><b>Bio: </b>Stuart is a someone who occassionally struggles with negative thoughts and he's been looking for something to help.  He's a trained Psychologist, so he knows that counteracting these thoughts can be very beneficial, so he uses InterMention to keep a list of his favorite affirmations ("Mentions") to use.
 
