@@ -49,17 +49,16 @@ REACT_APP_AUTH0_AUDIENCE=<copy/paste your audience here>
 ```
 
 5. In your CLI, from the root directory, run `npm install`
-6. Navigate into /app with `cd app` & run `npm install`
-7. Navigate back to the root directory & run `npm run db:init`
-8. Also from the root directory, run `npm start`
-9. InterMention will be running on <a href='https://www.localhost:3000'>localhost:3000</a>
+6. Navigate back to the root directory using `cd ..` & run `npm run db:init`
+7. While still in root directory, run `npm start`
+8. InterMention will be running on <a href='https://www.localhost:3000'>localhost:3000</a>
 
 ## Receiving A Mention as SMS Text
 
 If you would like to receive a Mention via text:
 
 1. Add a new Mention to your table
-2. Enter your phone number (click 'Enter Phone')
+2. Enter your phone number (click 'Enter Phone') - MAKE SURE TO ADD A +1 IN FRONT
 3. Click 'Get SMS' button - _et voila_!
 
 ## Technologies
