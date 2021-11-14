@@ -293,7 +293,7 @@ button:hover {
     transform: translate(-100%, 60%);
     font-size: 1.8rem;
     cursor: pointer;
-    margin-right: 100px;
+    margin-right: 5px;
     margin-top: 3px;
     z-index: 100;
   }
