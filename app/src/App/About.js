@@ -31,7 +31,11 @@ const AboutText = () => {
           Cycle:
         </p>
         <div className="about-img">
-          <img src={CBT} alt="cognitive-behavioral-cycle"></img>
+          <img
+            className="about-img-2"
+            src={CBT}
+            alt="cognitive-behavioral-cycle"
+          ></img>
         </div>
         <p className="about-p">
           What if we could intervene and counteract negative thoughts with more

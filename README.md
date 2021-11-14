@@ -8,7 +8,7 @@ In addition, InterMention has a Quote of the Day below the Affirmations Table to
 
 Sending users their favorite Mention on a schedule so that they are reminded of something positive throughout their day, which can slowly over time counteract negative thought patterns.
 
-<h3><a href='https://intermentionz.herokuapp.com/' target='_blank'>View InterMention on Heroku</a><h3>
+<h3><a href='https://intermentionz-zelma.herokuapp.com/' target='_blank'>View InterMention on Heroku</a><h3>
 
 <img src="./serene.png">
 
@@ -25,7 +25,7 @@ Stuart Smalley
 <p><b>Password: </b>Celery123!!</p>
 <p><b>Bio: </b>Stuart is a someone who occassionally struggles with negative thoughts and he's been looking for something to help.  He's a trained Psychologist, so he knows that counteracting these thoughts can be very beneficial, so he uses InterMention to keep a list of his favorite affirmations ("Mentions") to use.
 
-Stuart can view his Mentions at any time, add new ones, and even have them texted to his phone. Let's hope that slowly over time Stuarts starts to believe these positive alternatives, because he's a great guy who is "entitled to his share of happines".</p>
+Stuart can view his Mentions at any time, add new ones, and even have them texted to his phone. Let's hope that slowly over time Stuart starts to believe these positive alternatives, because he's a great guy who is "entitled to his share of happines".</p>
 
 ## Running Locally
 

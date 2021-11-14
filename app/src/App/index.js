@@ -3,6 +3,7 @@ import React from "react";
 
 import { Routes, Route } from "react-router-dom";
 
+import Footer from "../Footer/Footer";
 import Nav from "../Nav";
 import useApi from "../auth/useApi";
 import useAuth0 from "../auth/useAuth0";
@@ -41,6 +42,9 @@ const App = () => {
           <Route path="/about" element={<Protected component={About} />} />
         </Routes>
       </main>
+      <footer>
+        <Footer />
+      </footer>
     </>
   );
 };

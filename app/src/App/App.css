@@ -140,16 +140,28 @@ button.login:hover {
   color: #474747;
 }
 
-/* div that centers image */
 .about-img {
   text-align: center;
+  margin-top: 0px;
+  margin-left: 10px;
+  width: 90%;
+}
+
+/* div that centers image */
+.about-img-wrapper {
+  text-align: center;
   margin-top: -10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about-img-2 {
+  text-align: center;
 }
 
 .quote-wrapper {
   text-align: center;
   max-width: 900px;
-  text-align: center;
   margin: 0 auto;
 }
 
@@ -260,7 +272,7 @@ button.login:hover {
     /* position: fixed !important;  */
     /* keeps background image from when you scroll - gets rid of white space to the side and bottom of image */
     z-index: -1;
-    height: 140vh;
+    height: 160vh;
     width: 100vw;
   }
 
@@ -280,10 +292,17 @@ button.login:hover {
     margin: 0 auto;
   }
 
-  /* img {
-    margin-top: 5px;
-    height: 160px;
-  } */
+  .about-img {
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 10px;
+    width: 90%;
+  }
+
+  .about-img-2 {
+    width: 90%;
+    height: 90%;
+  }
 
   .table-p {
     margin-top: 10px;
