@@ -6,7 +6,7 @@
 
 <p>In addition, InterMention has a Quote of the Day to inspire the user with insightful and uplifting quotes.</p>
 
-<h3><a href=''https://intermentionz.herokuapp.com/' target='_blank''>💫 See InterMention in Action</a><h3>
+<h3><a href='https://intermentionz.herokuapp.com/' target='_blank''>💫 See InterMention in Action</a><h3>
 
 <img src="./serene.png">
 
