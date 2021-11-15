@@ -68,7 +68,9 @@ const TaskList = ({ tasks, deleteTask }) => {
   // add phone number when user clicks 'enter phone' btn
   const addPhone = (phoneNum) => {
     if (phone.search(/\+1(\d){10}/) === -1) {
-      setErrorMessage2("*Please enter valid 10-digit number with +1 in front");
+      setErrorMessage2(
+        "*Please enter a valid 10-digit number with +1 in front",
+      );
     } else {
       setErrorMessage2();
       return apiClient.addPhone(phoneNum);
