@@ -10,6 +10,8 @@
 
 <img src="./serene.png">
 
+### :dizzy: See Zelma's Other Projects <a href='https://portfolio-zvs.herokuapp.com/'>Here!</a>
+
 ## Test User Login
 
 Here is a designated test user. Feel free to log in with their credentials to try out InterMention!
@@ -79,7 +81,7 @@ Model = PostgreSQL, View = React.js, Control = Express.js
 - The user can login using Auth0 (additions: Google Login Feature)
 - The user can add affirmations to their list and view them at any given time
 - User can delete affirmations from table
-- Consume a Quote of the Day API
+- Consumes a Quote of the Day API
 
 ## Stretch Goals
 
@@ -95,8 +97,6 @@ Landing Page
 Dashboard
 <br>
 <img src="https://raw.githubusercontent.com/ZelmaSedano/intermentionz/main/dashboard.png" width="300px">
-
-### :dizzy: See Zelma's Other Projects <a href='https://portfolio-zvs.herokuapp.com/'>Here!</a>
 
 ## ✨ Contributors
 
