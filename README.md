@@ -10,7 +10,7 @@ In addition, InterMention has a Quote of the Day below the Affirmations Table to
 
 ## Test User Login
 
-Here is a designated test user - feel free to log in with their credentials and try out InterMention!
+Here is a designated test user; feel free to log in with their credentials to try out InterMention!
 
 <!-- <img src="./stuart-smalley.jpg" > -->
 <img src="https://raw.githubusercontent.com/ZelmaSedano/intermentionz/main/stuart_2.jpeg" width="200px" >
