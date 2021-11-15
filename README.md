@@ -2,9 +2,9 @@
 
 <h1 align="center">Intermention<h1>
 
-InterMention is a an application that utilizes Psychology's Repetition & Reminding technique (Cognitive Restructuring) to Reinforce & Redirect the user's thought process. Users can use affirmations (Mentions) to counteract the effects of negative thoughts throughout their day by viewing their Mentions, adding new ones, and even having them sent to their phone as an SMS.
+<p>InterMention is a an application that utilizes Psychology's Repetition & Reminding technique (Cognitive Restructuring) to Reinforce & Redirect the user's thought process. Users can use affirmations (Mentions) to counteract the effects of negative thoughts throughout their day by viewing their Mentions, adding new ones, and even having them sent to their phone as an SMS.</p>
 
-In addition, InterMention has a Quote of the Day below the Affirmations Table to inspire the user with insightful and uplifting quotes.
+<p>In addition, InterMention has a Quote of the Day below the Affirmations Table to inspire the user with insightful and uplifting quotes.</p>
 
 <h3><a href='https://intermentionz.herokuapp.com/' target='_blank'>✨ See InterMention in Action</a><h3>
 
