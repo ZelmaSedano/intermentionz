@@ -14,7 +14,7 @@
 
 ## Test User Login
 
-Here is a designated test user. Feel free to log in with their credentials.
+Here is a designated test user whose credentials you can use to login:
 
 <!-- <img src="./stuart-smalley.jpg" > -->
 <img src="https://raw.githubusercontent.com/ZelmaSedano/intermentionz/main/stuart_2.jpeg" width="200px" >
