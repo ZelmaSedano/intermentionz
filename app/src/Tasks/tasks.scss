@@ -87,6 +87,7 @@
 
 .default {
   color: #411195;
+  margin-left: 10px;
 }
 table {
   margin-top: 30px;
@@ -365,6 +366,10 @@ button:hover {
     padding-top: 150px;
     max-width: 300px;
     margin: 0 auto;
+  }
+
+  .default {
+    font-size: 12px;
   }
 
   .select-div {
