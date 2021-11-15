@@ -1,4 +1,4 @@
-# InterMention - Catch Negative Thoughts in Their Tracks
+# InterMention - Stop Negative Thoughts in Their Tracks
 
 <p>InterMention is a an application that utilizes Psychology's Repetition & Reminding technique (Cognitive Restructuring) to Reinforce & Redirect the user's thought process. Users can use affirmations (Mentions) to counteract the effects of negative thoughts throughout their day by viewing their Mentions, adding new ones, and even having them sent to their phone as an SMS.</p>
 
