@@ -14,7 +14,6 @@ RUN npm install --loglevel error
 COPY ./app .
 RUN npm run build
 
-
 FROM node:lts-alpine as server
 ARG NODE_ENV=production
 RUN npm install -g npm@latest
