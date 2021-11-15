@@ -125,14 +125,14 @@ COPY public.users (id, given_name, family_name, email, sub, phone, picture) FROM
 -- Name: tasks_id_seq; Type: SEQUENCE SET; Schema: public; Owner: -
 --
 
-SELECT pg_catalog.setval('public.tasks_id_seq', 83, true);
+SELECT pg_catalog.setval('public.tasks_id_seq', 84, true);
 
 
 --
 -- Name: users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: -
 --
 
-SELECT pg_catalog.setval('public.users_id_seq', 1265, true);
+SELECT pg_catalog.setval('public.users_id_seq', 1291, true);
 
 
 --
