@@ -62,7 +62,7 @@ const Nav = () => {
           </li>
 
           <li className="nav-item">
-            <NavLink className="nav-links" to="dashboard">
+            <NavLink className="nav-links" to="/dashboard">
               Dashboard
             </NavLink>
             {/* End Smooth Scroll Section */}
