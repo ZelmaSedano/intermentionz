@@ -80,18 +80,12 @@ a {
   margin-right: -5px;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.18);
 }
-.fa-bars:hover {
-  color: #411195;
-}
 
 .menu-icon .fa-times {
   color: #a988e2;
   margin-top: 5px;
   margin-right: -5px;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.18);
-}
-.fa-times:hover {
-  color: #411195;
 }
 
 /* PARENT3 - <ul> that holds <li>'s & LINKs */
