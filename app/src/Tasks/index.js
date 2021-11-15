@@ -106,7 +106,7 @@ const TaskList = ({ tasks, deleteTask }) => {
                     className="checkbox"
                   />
                   {/* <input type="checkbox" id="delete" /> */}
-                  {name}
+                  <p className="affirmation-text">{name}</p>
                 </td>
 
                 <td className="delete-column">
