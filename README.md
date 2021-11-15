@@ -22,7 +22,7 @@ Stuart Smalley
 <b>Email: </b>stuartisvalid@gmail.com
 
 <p><b>Password: </b>Celery123!!</p>
-<p><b>Bio: </b>Stuart is a someone who occassionally struggles with negative thoughts and he's been looking for something to help.  He's a trained Psychologist, so he knows that counteracting these thoughts can be very beneficial, so he uses InterMention to keep a list of his favorite affirmations ("Mentions") to use.
+<p><b>Bio: </b>Stuart is a someone who occassionally struggles with negative thoughts and he's been looking for something to help.  He's a trained Psychologist, so he knows that counteracting these thoughts when they occur can be very beneficial, so he uses InterMention to keep a list of his favorite affirmations ("Mentions") to use.
 
 Stuart can view his Mentions at any time, add new ones, and even have them texted to his phone. Let's hope that slowly over time Stuart starts to believe these positive alternatives, because he's a great guy who is "entitled to his share of happines".</p>
 
