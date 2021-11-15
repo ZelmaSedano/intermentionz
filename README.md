@@ -57,8 +57,9 @@ REACT_APP_AUTH0_AUDIENCE=<copy/paste your audience here>
 If you would like to receive a Mention via text:
 
 1. Add a new Mention to your table
-2. Enter your phone number (click 'Enter Phone') - MAKE SURE TO ADD A +1 IN FRONT
-3. Click 'Get SMS' button - _et voila_!
+2. Select that Mention with its Radio Button
+3. Enter your phone number (click 'Enter Phone') - MAKE SURE TO ADD A +1 IN FRONT
+4. Click 'Get SMS' button - _et voila_!
 
 ## Technologies
 
