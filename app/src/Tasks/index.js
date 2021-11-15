@@ -52,6 +52,7 @@ const TaskList = ({ tasks, deleteTask }) => {
   const [taskId, setTaskId] = React.useState(); // default is undefined
   // console.log("task id: ", taskId);
   const [errorMessage, setErrorMessage] = React.useState();
+  const [errorMessage2, setErrorMessage2] = React.useState();
   // console.log(errorMessage); //
   const [phone, setPhone] = React.useState();
   console.log(phone);
@@ -67,9 +68,9 @@ const TaskList = ({ tasks, deleteTask }) => {
   // add phone number when user clicks 'enter phone' btn
   const addPhone = (phoneNum) => {
     if (phone.search(/\+1(\d){10}/) === -1) {
-      setErrorMessage("*Please enter valid number with +1 in front");
+      setErrorMessage2("*Please enter valid number with +1 in front");
     } else {
-      setErrorMessage();
+      setErrorMessage2();
       return apiClient.addPhone(phoneNum);
     }
   };
@@ -153,6 +154,8 @@ const TaskList = ({ tasks, deleteTask }) => {
               <button className="phone-btn" onClick={() => addPhone(phone)}>
                 Enter Phone
               </button>
+
+              {errorMessage2 && <p className="error-2">{errorMessage2}</p>}
             </div>
           </Popup>
           <button className="get-sms" onClick={() => sendSMS(taskId)}>
