@@ -66,7 +66,7 @@ const TaskList = ({ tasks, deleteTask }) => {
   // };
   // add phone number when user clicks 'enter phone' btn
   const addPhone = (phoneNum) => {
-    if (phone.search(/[+1]/) === -1) {
+    if (phone.search(/\+1(\d){10}/) === -1) {
       setErrorMessage("*Please enter valid number with +1 in front");
     } else {
       setErrorMessage();
