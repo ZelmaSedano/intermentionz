@@ -44,11 +44,11 @@ a {
   cursor: pointer;
 }
 .logo-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
   font-size: 2.2rem;
   margin-top: 10px;
   margin-left: 20px;
-  font-weight: 100;
-  font-family: "Noto Sans JP", sans-serif;
   color: #a988e2;
 }
 .logo-text:hover {
@@ -56,6 +56,8 @@ a {
   transition: all 0.5s ease-out;
 }
 .logo-text span {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
   color: #8e5ee2;
 }
 /* test comment */
@@ -116,8 +118,8 @@ a {
   text-decoration: none;
   padding: 0.5rem 0.3rem;
   margin: 0.4rem 0rem;
-  font-size: 19px;
-  font-weight: 300;
+  font-size: 22px;
+  font-weight: 100;
   height: 100%;
   color: #431195;
   cursor: pointer;
@@ -149,6 +151,8 @@ button {
   width: 90px;
   background-color: transparent;
   border: 1px solid #411195;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
   border-radius: 25px;
   color: #411195;
   font-weight: 300;
