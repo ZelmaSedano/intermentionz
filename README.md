@@ -80,15 +80,13 @@ Model = PostgreSQL, View = React.js, Control = Express.js
 - Send their favorite Mention/Affirmation to the user via text (Twilio SMS API) - ACHIEVED!
 - Send the user's SMS on a schedule (added as an OpenSource Issue)
 
-## Mockups & WireFrames
+## License
 
-Landing Page
-<br>
-<img src="https://raw.githubusercontent.com/ZelmaSedano/intermentionz/main/landing.png" width="300px">
+Distributed under the MIT License. See LICENSE.txt for more information.
 
-Dashboard
-<br>
-<img src="https://raw.githubusercontent.com/ZelmaSedano/intermentionz/main/dashboard.png" width="300px">
+## Contact
+
+Tabitha O'Melay - [@TSockk](https://twitter.com/tsockk) - zvsedano@gmail.com
 
 ## ✨ Contributors
 
