@@ -189,6 +189,14 @@ button.login:hover {
   font-style: italic;
 }
 
+.footer {
+  margin-top: -30px;
+  text-align: center;
+  color: white;
+  font-weight: 100;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
 @media screen and (max-width: 1030px) {
   .hero-text {
     font-size: 4.2rem;
@@ -272,7 +280,7 @@ button.login:hover {
     /* position: fixed !important;  */
     /* keeps background image from when you scroll - gets rid of white space to the side and bottom of image */
     z-index: -1;
-    height: 120vh;
+    height: 125vh;
     width: 100vw;
   }
 

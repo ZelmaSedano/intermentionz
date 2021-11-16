@@ -35,10 +35,24 @@ const Home = () => {
               </h4>
             </section>
           </div>
+          <footer className="footer">
+            Made with
+            <span role="img" aria-label="Heart">
+              ❤️
+            </span>
+            & Intent by Zelma Sedano
+          </footer>
         </div>
       ) : (
         <div>
           <Dashboard />
+          <footer className="footer">
+            Made with
+            <span role="img" aria-label="Heart">
+              ❤️
+            </span>
+            & Intent by Zelma Sedano
+          </footer>
         </div>
       )}
     </>
