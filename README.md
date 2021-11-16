@@ -42,8 +42,8 @@ TWILIO_AUTH_TOKEN=<copy/paste your token here>
 ```
 
 4. In your CLI, from the root directory, run `npm install`
-5. Navigate back to the root directory using `cd ..` & run `npm run db:init`
-6. While still in root directory, run `npm start`
+5. While still in root directory, run `npm run db:init`
+6. Run `npm start`
 7. InterMention will be running on <a href='https://www.localhost:3000'>localhost:3000</a>
 
 ## Receiving A Mention as SMS Text
