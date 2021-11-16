@@ -347,7 +347,7 @@ button:hover {
   }
 
   .login-btn {
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: -100px;
   }
 
@@ -367,7 +367,7 @@ button:hover {
     display: table;
     text-align: center;
     padding: 2rem;
-    margin-top: 50px;
+    margin-top: 100px;
     width: 100%;
     font-size: 21px;
     color: #431195;
@@ -393,6 +393,11 @@ button:hover {
 @media screen and (max-width: 500px) {
   .navbar-logo {
     font-size: 1.6rem;
+  }
+
+  .login-btn {
+    margin-top: 100px;
+    margin-bottom: -100px;
   }
 }
 
