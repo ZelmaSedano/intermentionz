@@ -1,4 +1,6 @@
-<h1 align="center">Intermention</h1>
+<div>
+  <h1 align="center">Intermention</h1>
+</div>
 
 <h3><a href='https://intermentionz.herokuapp.com/' target='_blank''>💫 See InterMention in Action</a><h3>
 
