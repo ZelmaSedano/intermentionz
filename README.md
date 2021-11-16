@@ -41,18 +41,10 @@ TWILIO_ACCOUNT_SID=<copy/paste your sid here>
 TWILIO_AUTH_TOKEN=<copy/paste your token here>
 ```
 
-4. Create a `.env` file in the `app/` directory & add these lines:
-
-```
-REACT_APP_AUTH0_DOMAIN=<copy/paste your domain here>
-REACT_APP_AUTH0_CLIENT_ID=<copy/paste your client id here>
-REACT_APP_AUTH0_AUDIENCE=<copy/paste your audience here>
-```
-
-5. In your CLI, from the root directory, run `npm install`
-6. Navigate back to the root directory using `cd ..` & run `npm run db:init`
-7. While still in root directory, run `npm start`
-8. InterMention will be running on <a href='https://www.localhost:3000'>localhost:3000</a>
+4. In your CLI, from the root directory, run `npm install`
+5. Navigate back to the root directory using `cd ..` & run `npm run db:init`
+6. While still in root directory, run `npm start`
+7. InterMention will be running on <a href='https://www.localhost:3000'>localhost:3000</a>
 
 ## Receiving A Mention as SMS Text
 
