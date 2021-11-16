@@ -165,7 +165,7 @@ button.login:hover {
   text-align: center;
   max-width: 900px;
   margin: 0 auto;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 .quote-header {
@@ -296,7 +296,7 @@ button.login:hover {
     /* position: fixed !important;  */
     /* keeps background image from when you scroll - gets rid of white space to the side and bottom of image */
     z-index: -1;
-    height: 140vh;
+    height: 130vh;
     width: 100vw;
   }
 
@@ -343,5 +343,9 @@ button.login:hover {
   }
   .add-btn-1 {
     margin-top: 15px;
+  }
+
+  .footer {
+    margin-top: -50px;
   }
 }
