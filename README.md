@@ -2,7 +2,7 @@
 
 ### Stop Negative Thoughts in Their Tracks
 
-<p align='center'><a href='https://intermentionz.herokuapp.com/' target='_blank''>💫 See InterMention in Action</a><p>
+<p><a href='https://intermentionz.herokuapp.com/' target='_blank''>💫 See InterMention in Action</a><p>
 
 <img src="./serene.png">
 
