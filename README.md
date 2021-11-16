@@ -86,7 +86,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
 
-Tabitha O'Melay - [@TSockk](https://twitter.com/tsockk) - zvsedano@gmail.com
+Zelma Sedano - [@TSockk](https://twitter.com/tsockk) - zvsedano@gmail.com
 
 ## ✨ Contributors
 
