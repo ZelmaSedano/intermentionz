@@ -28,7 +28,7 @@ const Home = () => {
             <section className="text-wrapper">
               <h1 className="hero-text">Reinforce, Remind, Redirect</h1>
               <h4 className="hero-subtext">
-                Use Cognitive Restructuring to Change the Way You Think.
+                Use Cognitive Restructuring to Change the Way You Think
               </h4>
               <h4 className="hero-subtext">
                 {/* Never forget - <i>you are worthy</i>. */}
