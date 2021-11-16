@@ -89,10 +89,10 @@ const API = () => {
         {/* <button onClick={handleChange} className="add-btn-1" disabled={!canAdd}>
           Add
         </button> */}
-        <p className="add-p">
+        {/* <p className="add-p">
           * If you like this quote, feel free to copy & paste into Affirmations
           Field above
-        </p>
+        </p> */}
       </form>
     </div>
   );

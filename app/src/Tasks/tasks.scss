@@ -30,7 +30,7 @@
   max-width: 550px;
   text-align: center;
   margin: 0 auto;
-  margin-top: 30px;
+  margin-top: 35px;
 }
 .select-text {
   font-weight: 100;
@@ -38,7 +38,6 @@
   // text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.45);
   font-size: 15px;
   text-align: center;
-  margin-bottom: -3px;
 }
 
 .select-text-2 {
@@ -126,7 +125,7 @@ thead {
 // th = table header, td = table cell
 th,
 td {
-  border: 1px solid #180538;
+  border: 1px solid #999;
   // color: black;
   // text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
   // overflow: scroll
@@ -143,6 +142,7 @@ td {
 }
 
 label {
+  margin-top: 30px;
   margin-bottom: -15px;
   // aligns center
   text-align: center;
@@ -308,6 +308,7 @@ button.delete-btn {
   margin-top: 5px;
   margin-bottom: -20px;
 }
+
 .popup {
   padding: 10px;
   border-radius: 15px;
@@ -414,6 +415,10 @@ button:hover {
 
   .affirmation-text {
     font-size: 15px;
+  }
+
+  .pop {
+    margin-top: -100px;
   }
 
   .enter-phone-btn {

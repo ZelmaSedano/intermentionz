@@ -194,8 +194,6 @@ const AddTask = ({ addTask }) => {
 
   return (
     <div className="center">
-      <p className="table-p">* Scroll down in table to view more Mentions</p>
-
       <form {...{ onSubmit }}>
         <label>
           <textarea

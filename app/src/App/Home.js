@@ -36,7 +36,7 @@ const Home = () => {
             </section>
           </div>
           <footer className="footer">
-            Made with
+            Made with{" "}
             <span role="img" aria-label="Heart">
               ❤️
             </span>

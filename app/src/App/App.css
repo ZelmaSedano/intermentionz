@@ -170,7 +170,7 @@ button.login:hover {
 
 .quote-header {
   font-family: "Roboto", sans-serif;
-  font-size: 22px;
+  font-size: 21px;
   margin-top: 20px;
   text-align: center;
   color: white;
@@ -197,9 +197,11 @@ button.login:hover {
 
 .footer {
   font-family: "Roboto", sans-serif;
+  font-size: 0.9rem;
   margin-top: -35px;
   text-align: center;
   color: white;
+  letter-spacing: 4px;
   font-weight: 100;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
 }
