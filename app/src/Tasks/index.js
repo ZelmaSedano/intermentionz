@@ -199,7 +199,7 @@ const AddTask = ({ addTask }) => {
           <textarea
             onChange={(e) => setTask(e.currentTarget.value)}
             value={task}
-            placeholder="Enter Affirmation/Mention"
+            placeholder="Add Affirmation Here.  Example: 'I am worthy of happiness'"
           />
         </label>
         <button className="add-btn" disabled={!canAdd}>
