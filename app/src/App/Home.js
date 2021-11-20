@@ -40,7 +40,7 @@ const Home = () => {
             <span role="img" aria-label="Heart">
               ❤️
             </span>
-            & Intent by Zelma Sedano
+            & Intention by Zelma Sedano
           </footer>
         </div>
       ) : (

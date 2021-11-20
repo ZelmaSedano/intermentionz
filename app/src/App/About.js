@@ -47,8 +47,8 @@ const AboutText = () => {
         <br />
         <p className="about-p">
           Science says it works, so try it today! And don't forget, if you want
-          to receive your favorite mention as a reminder via email, just click
-          the checkbox next to that mention!
+          to receive your favorite mention as a reminder via SMS, just click the
+          radio button next to that mention!
         </p>
       </div>
     </div>

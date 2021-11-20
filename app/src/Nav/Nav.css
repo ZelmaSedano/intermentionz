@@ -404,7 +404,6 @@ button:hover {
     display: flex;
     /* up & down */
     flex-direction: column;
-    /* distance between */
     grid-gap: 10px;
     /* pushes entire menu up */
     /* padding-bottom: 150px; */
